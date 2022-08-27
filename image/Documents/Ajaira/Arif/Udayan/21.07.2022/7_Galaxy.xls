@@ -1,0 +1,622 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40"
+ xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="urn:my-scripts">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Windows User</LastAuthor>
+  <LastSaved>2022-07-20T10:57:27Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8715</WindowHeight>
+  <WindowWidth>9405</WindowWidth>
+  <WindowTopX>420</WindowTopX>
+  <WindowTopY>1125</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="record">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="94" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="101.25"/>
+   <Column ss:Width="123"/>
+   <Column ss:Width="78.75"/>
+   <Column ss:Width="63"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">StudentUniqueCode</Data></Cell>
+    <Cell><Data ss:Type="String">FullName</Data></Cell>
+    <Cell><Data ss:Type="String">SectionPosition</Data></Cell>
+    <Cell><Data ss:Type="String">Mobile</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005101</Data></Cell>
+    <Cell><Data ss:Type="String">Dibakar Sarkar </Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005102</Data></Cell>
+    <Cell><Data ss:Type="String">Swapnil Sarkar</Data></Cell>
+    <Cell><Data ss:Type="String">2</Data></Cell>
+    <Cell><Data ss:Type="String">01717354216</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005103</Data></Cell>
+    <Cell><Data ss:Type="String">Ahesan Islam</Data></Cell>
+    <Cell><Data ss:Type="String">3</Data></Cell>
+    <Cell><Data ss:Type="String">01731250672</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106104</Data></Cell>
+    <Cell><Data ss:Type="String">Newton Biswas</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">01936398304</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005105</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Ayyan Bin Faruk</Data></Cell>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">01797475486</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005106</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Azmain Anowar</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">01714738314</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005107</Data></Cell>
+    <Cell><Data ss:Type="String">Utshab Debonath</Data></Cell>
+    <Cell><Data ss:Type="Number">86</Data></Cell>
+    <Cell><Data ss:Type="String">01715534672</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106108</Data></Cell>
+    <Cell><Data ss:Type="String">Shachin Das</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">01703039085</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005112</Data></Cell>
+    <Cell><Data ss:Type="String">Ayman Hossain</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">01875762513</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005110</Data></Cell>
+    <Cell><Data ss:Type="String">Tahasinul Islam</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">01946645316</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106111</Data></Cell>
+    <Cell><Data ss:Type="String">Srijon Mukherjee</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">01718121463</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106112</Data></Cell>
+    <Cell><Data ss:Type="String">Dipu Halder</Data></Cell>
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="String">01917802493</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005113</Data></Cell>
+    <Cell><Data ss:Type="String">Ayan Hasan</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="String">01819000855</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005114</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Asraful Islam</Data></Cell>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="String">01789521662</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106115</Data></Cell>
+    <Cell><Data ss:Type="String">Anirban Sarker</Data></Cell>
+    <Cell><Data ss:Type="String">15</Data></Cell>
+    <Cell><Data ss:Type="String">01725806199</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005116</Data></Cell>
+    <Cell><Data ss:Type="String">Ehsan Islam</Data></Cell>
+    <Cell><Data ss:Type="String">16</Data></Cell>
+    <Cell><Data ss:Type="String">01955470616</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005117</Data></Cell>
+    <Cell><Data ss:Type="String">Imrul Kayes Rishad</Data></Cell>
+    <Cell><Data ss:Type="String">17</Data></Cell>
+    <Cell><Data ss:Type="String">01729349354</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106118</Data></Cell>
+    <Cell><Data ss:Type="String">Aritra Gomez</Data></Cell>
+    <Cell><Data ss:Type="String">18</Data></Cell>
+    <Cell><Data ss:Type="String">01716936642</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005119</Data></Cell>
+    <Cell><Data ss:Type="String">Ariful Hasan</Data></Cell>
+    <Cell><Data ss:Type="String">19</Data></Cell>
+    <Cell><Data ss:Type="String">01708955118</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106120</Data></Cell>
+    <Cell><Data ss:Type="String">Priom Pal</Data></Cell>
+    <Cell><Data ss:Type="Number">49</Data></Cell>
+    <Cell><Data ss:Type="String">01950931199</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005121</Data></Cell>
+    <Cell><Data ss:Type="String">Musfikun  Nove Aurko</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="String">01728141002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005122</Data></Cell>
+    <Cell><Data ss:Type="String">Sayel  Ahmed</Data></Cell>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">01944834834</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005123</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Najmus Sakib</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">01719390642</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005124</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Tahmid Allam Sikder</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">01716392081</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106125</Data></Cell>
+    <Cell><Data ss:Type="String">Himadri Howladar</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">01727669589</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005126</Data></Cell>
+    <Cell><Data ss:Type="String">Palak Bosu</Data></Cell>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">01718852060</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005127</Data></Cell>
+    <Cell><Data ss:Type="String">Abdulla Al Sami</Data></Cell>
+    <Cell><Data ss:Type="Number">61</Data></Cell>
+    <Cell><Data ss:Type="String">01748680299</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005128</Data></Cell>
+    <Cell><Data ss:Type="String">Yeamin Ali Khan</Data></Cell>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="String">01742081525</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005129</Data></Cell>
+    <Cell><Data ss:Type="String">Abir Hossain</Data></Cell>
+    <Cell><Data ss:Type="String">29</Data></Cell>
+    <Cell><Data ss:Type="String">01726257023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005130</Data></Cell>
+    <Cell><Data ss:Type="String">Yasin Arafat</Data></Cell>
+    <Cell><Data ss:Type="String">30</Data></Cell>
+    <Cell><Data ss:Type="String">01971341765</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005131</Data></Cell>
+    <Cell><Data ss:Type="String">Saharia Tamim Khan</Data></Cell>
+    <Cell><Data ss:Type="String">31</Data></Cell>
+    <Cell><Data ss:Type="String">01558841585</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106132</Data></Cell>
+    <Cell><Data ss:Type="String">Deb Kumar Nandi</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="String">01731503970</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005133</Data></Cell>
+    <Cell><Data ss:Type="String">Rafat Al Musabbir Shefat</Data></Cell>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="String">01306012707</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005134</Data></Cell>
+    <Cell><Data ss:Type="String">Solayman Hossain Alif</Data></Cell>
+    <Cell><Data ss:Type="Number">77</Data></Cell>
+    <Cell><Data ss:Type="String">01716715342</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005135</Data></Cell>
+    <Cell><Data ss:Type="String">Surjo Saha</Data></Cell>
+    <Cell><Data ss:Type="Number">55</Data></Cell>
+    <Cell><Data ss:Type="String">01729569122</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005136</Data></Cell>
+    <Cell><Data ss:Type="String">Musfikur Rahman Tonim</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="String">01749596137</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005137</Data></Cell>
+    <Cell><Data ss:Type="String">Habibullah Zimon</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">01787170970</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005138</Data></Cell>
+    <Cell><Data ss:Type="String">Tanjim Rahman</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">01763700097</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106139</Data></Cell>
+    <Cell><Data ss:Type="String">Arit Biswas</Data></Cell>
+    <Cell><Data ss:Type="String">39</Data></Cell>
+    <Cell><Data ss:Type="String">01717479883</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005140</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Tanzil Islam</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="String">01724403365</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005141</Data></Cell>
+    <Cell><Data ss:Type="String">Iman Siam</Data></Cell>
+    <Cell><Data ss:Type="String">41</Data></Cell>
+    <Cell><Data ss:Type="String">01715714217</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005142</Data></Cell>
+    <Cell><Data ss:Type="String">Ratul Shekh</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">01754938223</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106143</Data></Cell>
+    <Cell><Data ss:Type="String">Luis Roddro Halder</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="String">01787208548</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106443</Data></Cell>
+    <Cell><Data ss:Type="String">Yamin Khan Tiyan</Data></Cell>
+    <Cell><Data ss:Type="String">43</Data></Cell>
+    <Cell><Data ss:Type="String">01719574738</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005144</Data></Cell>
+    <Cell><Data ss:Type="String">Hasan Al Mahadi</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="String">01717733191</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005145</Data></Cell>
+    <Cell><Data ss:Type="String">Arfeias Abdulla</Data></Cell>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="String">01755528882</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005146</Data></Cell>
+    <Cell><Data ss:Type="String">Ratul Abdulla</Data></Cell>
+    <Cell><Data ss:Type="String">46</Data></Cell>
+    <Cell><Data ss:Type="String">01710821951</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005147</Data></Cell>
+    <Cell><Data ss:Type="String">Shaown Islam</Data></Cell>
+    <Cell><Data ss:Type="Number">79</Data></Cell>
+    <Cell><Data ss:Type="String">01718334851</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005148</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Rezuan Tamim</Data></Cell>
+    <Cell><Data ss:Type="String">48</Data></Cell>
+    <Cell><Data ss:Type="String">01714081916</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005149</Data></Cell>
+    <Cell><Data ss:Type="String">Kazi Imran Hasan</Data></Cell>
+    <Cell><Data ss:Type="Number">83</Data></Cell>
+    <Cell><Data ss:Type="String">01716405959</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005150</Data></Cell>
+    <Cell><Data ss:Type="String">Prince Chandra Dakua</Data></Cell>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="String">01724411680</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005151</Data></Cell>
+    <Cell><Data ss:Type="String">Hamim Islam</Data></Cell>
+    <Cell><Data ss:Type="Number">64</Data></Cell>
+    <Cell><Data ss:Type="String">01754943954</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005152</Data></Cell>
+    <Cell><Data ss:Type="String">Shafikul Islam</Data></Cell>
+    <Cell><Data ss:Type="String">52</Data></Cell>
+    <Cell><Data ss:Type="String">01717044983</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005153</Data></Cell>
+    <Cell><Data ss:Type="String">Jit Ghoush</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">01768170684</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005154</Data></Cell>
+    <Cell><Data ss:Type="String">Asrafur Rahman Ratul</Data></Cell>
+    <Cell><Data ss:Type="String">54</Data></Cell>
+    <Cell><Data ss:Type="String">01748923536</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005155</Data></Cell>
+    <Cell><Data ss:Type="String">Maruf Hossain Sani</Data></Cell>
+    <Cell><Data ss:Type="String">55</Data></Cell>
+    <Cell><Data ss:Type="String">01709617929</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202005156</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Emtiaz Ohi</Data></Cell>
+    <Cell><Data ss:Type="Number">57</Data></Cell>
+    <Cell><Data ss:Type="String">01712139643</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106157</Data></Cell>
+    <Cell><Data ss:Type="String">Mezbah Khan Tamim</Data></Cell>
+    <Cell><Data ss:Type="String">57</Data></Cell>
+    <Cell><Data ss:Type="String">01912164981</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106158</Data></Cell>
+    <Cell><Data ss:Type="String">Md. Alif Al Zihan</Data></Cell>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="String">01755811776</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106159</Data></Cell>
+    <Cell><Data ss:Type="String">Sayan Kirtonia Swargo</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">01739959544</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106160</Data></Cell>
+    <Cell><Data ss:Type="String">Apurbo Gharami</Data></Cell>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">01759711229</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106161</Data></Cell>
+    <Cell><Data ss:Type="String">Orka Shaha</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="String">01722277741</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106162</Data></Cell>
+    <Cell><Data ss:Type="String">Shourav Roy</Data></Cell>
+    <Cell><Data ss:Type="String">62</Data></Cell>
+    <Cell><Data ss:Type="String">01936049812</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106163</Data></Cell>
+    <Cell><Data ss:Type="String">Sporsho Banik</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">01688502588</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106164</Data></Cell>
+    <Cell><Data ss:Type="String">Rudra Roy</Data></Cell>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="String">01746451974</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106165</Data></Cell>
+    <Cell><Data ss:Type="String">Soumya Dipta Pal</Data></Cell>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="String">01717064469</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106166</Data></Cell>
+    <Cell><Data ss:Type="String">Joy Halder</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="String">01737855409</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106167</Data></Cell>
+    <Cell><Data ss:Type="String">Nixon Kar</Data></Cell>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="String">01721333903</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106168</Data></Cell>
+    <Cell><Data ss:Type="String">Robin Roy</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="String">01725315053</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106169</Data></Cell>
+    <Cell><Data ss:Type="String">Rimon Debnath</Data></Cell>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="String">01718359631</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106170</Data></Cell>
+    <Cell><Data ss:Type="String">Pritam Ghosh</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">01711206706</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106171</Data></Cell>
+    <Cell><Data ss:Type="String">Orpan Das</Data></Cell>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="String">01725039378</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106172</Data></Cell>
+    <Cell><Data ss:Type="String">Badhon Das</Data></Cell>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="String">01816433985</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106173</Data></Cell>
+    <Cell><Data ss:Type="String">Bapon Das</Data></Cell>
+    <Cell><Data ss:Type="String">73</Data></Cell>
+    <Cell><Data ss:Type="String">01816433985</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106174</Data></Cell>
+    <Cell><Data ss:Type="String">Sourav Das</Data></Cell>
+    <Cell><Data ss:Type="Number">39</Data></Cell>
+    <Cell><Data ss:Type="String">01712733185</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106175</Data></Cell>
+    <Cell><Data ss:Type="String">Simanto Das</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="String">01720679165</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106176</Data></Cell>
+    <Cell><Data ss:Type="String">Dip Ray</Data></Cell>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="String">01758501228</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106177</Data></Cell>
+    <Cell><Data ss:Type="String">Tirtho Das</Data></Cell>
+    <Cell><Data ss:Type="Number">81</Data></Cell>
+    <Cell><Data ss:Type="String">01729123422</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106178</Data></Cell>
+    <Cell><Data ss:Type="String">H.M Arian Hossain</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">01763273299</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106179</Data></Cell>
+    <Cell><Data ss:Type="String">Milton Dhali</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">01586051500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106180</Data></Cell>
+    <Cell><Data ss:Type="String">Niladro Karmokar</Data></Cell>
+    <Cell><Data ss:Type="Number">45</Data></Cell>
+    <Cell><Data ss:Type="String">01712221888</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106181</Data></Cell>
+    <Cell><Data ss:Type="String">Dhrubo Kumar Roy</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="String">01879284600</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106182</Data></Cell>
+    <Cell><Data ss:Type="String">Shuvojit Howlader</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">01718136463</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106183</Data></Cell>
+    <Cell><Data ss:Type="String">Turja Chandra</Data></Cell>
+    <Cell><Data ss:Type="Number">82</Data></Cell>
+    <Cell><Data ss:Type="String">01715011245</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106184</Data></Cell>
+    <Cell><Data ss:Type="String">Shurja Chandra</Data></Cell>
+    <Cell><Data ss:Type="String">84</Data></Cell>
+    <Cell><Data ss:Type="String">01715011245</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106185</Data></Cell>
+    <Cell><Data ss:Type="String">Badan Das</Data></Cell>
+    <Cell><Data ss:Type="String">85</Data></Cell>
+    <Cell><Data ss:Type="String">01721056135</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106186</Data></Cell>
+    <Cell><Data ss:Type="String">Abir Tasildar</Data></Cell>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="String">01723906652</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106187</Data></Cell>
+    <Cell><Data ss:Type="String">Uday Das</Data></Cell>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="String">01705609838</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106188</Data></Cell>
+    <Cell><Data ss:Type="String">Swapnil Saha</Data></Cell>
+    <Cell><Data ss:Type="String">88</Data></Cell>
+    <Cell><Data ss:Type="String">01739183850</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106189</Data></Cell>
+    <Cell><Data ss:Type="String">Arnob Sikdar</Data></Cell>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106190</Data></Cell>
+    <Cell><Data ss:Type="String">Bapan Bepari</Data></Cell>
+    <Cell><Data ss:Type="String">90</Data></Cell>
+    <Cell><Data ss:Type="String">01914148211</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106191</Data></Cell>
+    <Cell><Data ss:Type="String">Orup Saha</Data></Cell>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="String">01742622840</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">202106192</Data></Cell>
+    <Cell><Data ss:Type="String">Shyon Saha</Data></Cell>
+    <Cell><Data ss:Type="String">92</Data></Cell>
+    <Cell><Data ss:Type="String">01688052013</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <TopRowVisible>51</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>57</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
